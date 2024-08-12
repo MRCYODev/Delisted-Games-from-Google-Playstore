@@ -10,8 +10,7 @@
 
 | :warning: WARNING          |
 |:---------------------------|
-| ✅ (Uploaded) 🔄️ (Coming Soon) ❌ (Relisted)   |
-
+| ✅ (Uploaded) 🔄️ (Coming Soon) ❌ (Relisted) ⚠️ (Takedown)   |
 
 <p align="center">
   <a href="#">Overview</a> •
@@ -35,7 +34,7 @@
         <th>Genre</td>
         <th>Developer</td>
         <th>Archive.org Link</td>
-        <th>Uploaded</td>
+        <th>Status</td>
     </tr>
 </thead>
 <tbody>
