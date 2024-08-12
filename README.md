@@ -1,7 +1,7 @@
 
 
 
-  <table>
+  <table style="overflow-x:auto;">
     <tr>
         <th>ID</th>
         <th>Title</th>
