@@ -10,7 +10,7 @@
 
 | :warning: WARNING          |
 |:---------------------------|
-| ✅ (Uploaded) 🔄️ (Coming Soon) | ❌ (Relisted)   |
+| ✅ (Uploaded) 🔄️ (Coming Soon) ❌ (Relisted)   |
 
 
 <p align="center">
