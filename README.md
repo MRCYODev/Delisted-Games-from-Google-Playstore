@@ -8,7 +8,7 @@
   <em>Here are the games which don't need updating since they are removed from the Google Playstore. These games may still work, especially if it is offline game. Trying them out will not harm they are fully secure</em>
 </p>
 
-| :warning: WARNING          |
+|   Status Information   |
 |:---------------------------|
 | ✅ (Uploaded) 🔄️ (Coming Soon) ❌ (Relisted) ⚠️ (Takedown)   |
 
