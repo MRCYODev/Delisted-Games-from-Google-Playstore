@@ -14,17 +14,14 @@
 
 <p align="center">
   <a href="#list">List</a> •
-  <a href="#">Prerequisites</a> •
-  <a href="#">Installation</a> •
-  <a href="#">Usage</a> •
-  <a href="#">Example Output</a> •
-  <a href="#">License</a> •
-  <a href="#">Feedback and Contributions</a>
+  <a href="#">Coming Soon</a> •
+  <a href="#">Coming Soon</a>
 </p>
 
 
-# List
-<table>
+## List
+
+<table align="center">
 <thead>
     <tr>
         <th>ID</td>
