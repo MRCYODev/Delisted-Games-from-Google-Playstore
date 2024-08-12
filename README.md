@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="#overview">Overview</a> •
-  <a href="#important notice to developers">Important Notice to Developers</a> •
+  <a href="#important-notice-to-developers">Important Notice to Developers</a> •
   <a href="#feedback">Feedback</a> •
   <a href="#list">List</a>
 </p>
