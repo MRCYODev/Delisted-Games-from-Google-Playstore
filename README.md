@@ -231,87 +231,87 @@
         <td>✅</td>
     </tr>
     <tr>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td><a href=""></td>
-        <td></td>
+        <td>19</td>
+        <td>WWE Immortals</td>
+        <td>1.41 Gb</td>
+        <td>2.6.3</td>
+        <td>01.12.2017</td>
+        <td>4.0+</td>
+        <td>Action</td>
+        <td>Warner Bros. International Enterprises</td>
+        <td><a href="https://archive.org/details/wwe-immortals-2.6.3">WWE Immortals</td>
+        <td>✅</td>
     </tr>
     <tr>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td><a href=""></td>
-        <td></td>
+        <td>20</td>
+        <td>Angry Birds Seasons</td>
+        <td>99 Mb</td>
+        <td>6.6.2</td>
+        <td>23.05.2018</td>
+        <td>4.1+</td>
+        <td>Arcade</td>
+        <td>Rovio Entertainment Corporation</td>
+        <td><a href="https://archive.org/details/angry-birds-seasons-apk">Angry Birds Seasons</td>
+        <td>✅</td>
     </tr>
     <tr>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td><a href=""></td>
-        <td></td>
+        <td>21</td>
+        <td>Angry Birds Star Wars II Free</td>
+        <td>50 Mb</td>
+        <td>1.9.25</td>
+        <td>27.08.2018</td>
+        <td>4.1+</td>
+        <td>Casual</td>
+        <td>Rovio Entertainment Corporation</td>
+        <td><a href="https://archive.org/details/angry-birds-star-wars-II-free-apk">Angry Birds Star Wars II Free</td>
+        <td>✅</td>
     </tr>
     <tr>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td><a href=""></td>
-        <td></td>
+        <td>22</td>
+        <td>Angry Birds Star Wars</td>
+        <td>45 Mb</td>
+        <td>1.5.13</td>
+        <td>31.08.2018</td>
+        <td>4.1+</td>
+        <td>Arcade</td>
+        <td>Rovio Entertainment Corporation</td>
+        <td><a href="https://archive.org/details/angry-birds-star-wars-i-apk">Angry Birds Star Wars</td>
+        <td>✅</td>
     </tr>
     <tr>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td><a href=""></td>
-        <td></td>
+        <td>23</td>
+        <td>Angry Birds Space Free</td>
+        <td>46 Mb</td>
+        <td>2.2.14</td>
+        <td>24.08.2018</td>
+        <td>4.1+</td>
+        <td>Arcade</td>
+        <td>Rovio Entertainment Corporation</td>
+        <td><a href="https://archive.org/details/angry-birds-space-free-apk">Angry Birds Space Free</td>
+        <td>✅</td>
     </tr>
     <tr>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td><a href=""></td>
-        <td></td>
+        <td>24</td>
+        <td>Angry Birds Rio</td>
+        <td>47 Mb</td>
+        <td>2.6.13</td>
+        <td>08.02.2019</td>
+        <td>4.1+</td>
+        <td>Arcade</td>
+        <td>Rovio Entertainment Corporation</td>
+        <td><a href="https://archive.org/details/angry-birds-rio-apk">Angry Birds Rio</td>
+        <td>✅</td>
     </tr>
     <tr>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td><a href=""></td>
-        <td></td>
+        <td>25</td>
+        <td>Angry Birds Slingshot Stella</td>
+        <td>49 Mb</td>
+        <td>1.1.5</td>
+        <td>21.04.2015</td>
+        <td>4.0+</td>
+        <td>Arcade</td>
+        <td>Rovio Entertainment Corporation</td>
+        <td><a href="https://archive.org/details/angry-birds-slingshot-stella">Angry Birds Slingshot Stella</td>
+        <td>✅</td>
     </tr>
 </tbody>
