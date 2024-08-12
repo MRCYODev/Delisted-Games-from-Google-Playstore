@@ -1,3 +1,28 @@
+<p align="center">
+  <img src="#" width="200">
+</p>
+
+<h1 align="center">Delisted Games From Google Playstore</h1>
+
+<p align="center">
+  <em>Here are the games which don't need updating since they are removed from the Google Playstore. These games may still work, especially if it is offline game. Trying them out will not harm they are fully secure</em>
+</p>
+
+| :warning: WARNING          |
+|:---------------------------|
+| ✅ (Uploaded) 🔄️ (Coming Soon) | ❌ (Relisted)   |
+
+
+<p align="center">
+  <a href="#">Overview</a> •
+  <a href="#">Prerequisites</a> •
+  <a href="#">Installation</a> •
+  <a href="#">Usage</a> •
+  <a href="#">Example Output</a> •
+  <a href="#">License</a> •
+  <a href="#">Feedback and Contributions</a>
+</p>
+
 <table>
 <thead>
     <tr>
