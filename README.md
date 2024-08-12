@@ -15,6 +15,7 @@
 <p align="center">
   <a href="#overview">Overview</a> •
   <a href="#important-notice-to-developers">Important Notice to Developers</a> •
+  <a href="#anti-piracy-statement">Anti-Piracy Statement</a> •
   <a href="#feedback">Feedback</a> •
   <a href="#list">List</a>
 </p>
@@ -26,6 +27,9 @@ Through this project, we aim to restore these games' legacy, offering a nostalgi
 
 # Important Notice to Developers
 We respect the rights of all developers. If you are the developer of a game featured in our archive and prefer not to have your game included, please let us know. You can easily open an issue through our [Issue Tracker](https://github.com/MRCYODev/Delisted-Games-from-Google-Playstore/issues) to request removal. We will promptly address your concerns and take the necessary steps to remove your game from our archive.
+
+# Anti-Piracy Statement
+Our project firmly stands against piracy. All games in our archive were originally downloaded and backed up from the official Google Play Store while they were still available. We do not distribute or encourage the illegal downloading of games. Our goal is to preserve the memory of these games, not to infringe upon the rights of developers or publishers.
 
 ## Feedback
 If you encounter any issues or have game suggestions for improvement our list, please [open an issue](https://github.com/MRCYODev/Delisted-Games-from-Google-Playstore/issues)
