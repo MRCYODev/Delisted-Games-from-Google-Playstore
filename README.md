@@ -79,7 +79,7 @@
         <td>Dead Space</td>
         <td>282 Mb</td>
         <td>1.5.1.2515</td>
-        <td>02-08-2022</td>
+        <td>02.08.2022</td>
         <td>11+</td>
         <td>Action</td>
         <td>Electronic Arts</td>
