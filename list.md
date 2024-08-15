@@ -13,7 +13,7 @@
         <th></td>
         <th></td>
         <th></td>
-        <th></td>
+        <th><a href=""> </a></td>
     </tr>
 -->
 
@@ -332,5 +332,17 @@
         <td>Rovio Entertainment Corporation</td>
         <td><a href="https://archive.org/details/angry-birds-slingshot-stella">Angry Birds Slingshot Stella</td>
         <td>✅</td>
+    </tr>
+        <tr>
+        <td>26</td>
+        <td>Amazing LOL - Run Game</td>
+        <td>41 Mb</td>
+        <td>3.4</td>
+        <td>02.07.2015</td>
+        <td>2.3.3+</td>
+        <td>Casual</td>
+        <td>MadPixel</td>
+        <td><a href="#">Not Yet</a></td>
+        <td>🔄️</td>
     </tr>
 </tbody>
